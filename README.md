@@ -1,1 +1,1 @@
-# Use browser (MICROSOFT EDGE)  Recommend [For best performance]
+# Use browser (MICROSOFT EDGE)  Recommended [For best performance]
